@@ -1,0 +1,18 @@
+#myform{
+    margin-left: 400px;
+    margin-right:400px;
+    margin-top: 200px;
+    height:300px;
+    align:center;
+    background-color: aqua;
+}
+#myinput{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#myvalue{
+    margin-left: 80px;
+}
+#h1{
+    margin-left:100px
+}
